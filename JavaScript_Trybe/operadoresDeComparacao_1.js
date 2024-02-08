@@ -1,0 +1,2 @@
+/*Neste exercício, você precisa atribuir a comparação da variável elementoA com a variável elementoB na variável resultado . Para verificar se o elementoA é maior que o elementoB , vamos usar o operador de comparação > (maior que) */
+resultado = elementoA > elementoB;

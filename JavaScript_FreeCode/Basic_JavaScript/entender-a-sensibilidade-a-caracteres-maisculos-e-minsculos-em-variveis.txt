@@ -1,0 +1,9 @@
+// Declarações de variável
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Atribuições de variável
+var studlyCapVar = 10;
+var properCamelCase = "A String";
+var titleCaseOver = 9000;

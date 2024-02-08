@@ -1,0 +1,2 @@
+/* Neste exercício, você precisa fazer a subtração, usando o operador - , de duas variáveis, elementoB com elementoA , e armazenar o resultado na variável resultadoSubtracao . */
+resultadoSubtracao = elementoB - elementoA;

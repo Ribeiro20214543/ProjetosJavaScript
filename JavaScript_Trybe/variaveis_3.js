@@ -1,0 +1,2 @@
+/* No último exercício sobre variáveis, é hora de criarmos nossa primeira constante! Para tal, precisamos usar o identificador de constantes, o const (ao invés do var , identificador de variáveis) juntamente com o nome da constante que você vai usar e por fim o valor que ela vai ter.*/
+const NATURALIDADE = "Inglaterra";
